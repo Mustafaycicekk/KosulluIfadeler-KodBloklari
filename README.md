@@ -1,0 +1,2 @@
+# KosulluIfadeler-KodBloklari
+ patika.dev
